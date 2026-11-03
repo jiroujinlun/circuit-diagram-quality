@@ -1,0 +1,4 @@
+interface:
+  display_name: "Circuit Diagram Quality"
+  short_description: "Improve generated circuit diagram readability"
+  default_prompt: "Use $circuit-diagram-quality to review or refine this circuit diagram for engineer-friendly readability while preserving its intended topology."
